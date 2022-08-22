@@ -47,17 +47,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
+- :zap: In my free time, I'm keeping up with new technologies
  
 - 🌱 I’m currently learning Javascript & React
 
-- 💬 Ask me about Web Applications and Backend Operations
+- 💬 Ask me about : Web Applications and Backend Operations
 
 - 😄 Pronouns: Fet
 
 - ⚡ Fun fact: Solving a long coding error
 
-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulfettah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulfettahsancakli/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulfettah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulfettahsancakli/)
 
 
 ---
