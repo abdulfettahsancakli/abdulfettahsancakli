@@ -42,12 +42,20 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :mortar_board: I graduated from Computer Engineering (English) department.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: I’m contributing to frontend and backend for building web applications.
 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
+ 
+- 🌱 I’m currently learning Javascript & React
+
+- 💬 Ask me about Web Applications and Backend Operations
+
+- 😄 Pronouns: Fet
+
+- ⚡ Fun fact: Solving a long coding error
 
 - - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulfettah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulfettahsancakli/)
 
