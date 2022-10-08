@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I'm keeping up with new technologies
  
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning VueJs & MongoDB
 
 - 💬 Ask me about : Web Applications and Backend Operations
 
